@@ -23,10 +23,10 @@
 		</dependency>
 			
 	</dependencies>
-		<properties>
+		<!--<properties>
 		    <maven.compiler.source>1.6</maven.compiler.source>
 		    <maven.compiler.target>1.6</maven.compiler.target>
-		</properties>
+		</properties>-->
 	<build>
 		<finalName>gamutkart</finalName>
 	</build>
