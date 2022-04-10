@@ -4,7 +4,7 @@ import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 //blabla
-//blabla123
+//blabla12
 /**
  * Unit test for simple App.
  */
