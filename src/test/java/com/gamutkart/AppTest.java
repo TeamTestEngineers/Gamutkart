@@ -1,4 +1,4 @@
-package com.gamutkart;
+ackage com.gamutkart;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
